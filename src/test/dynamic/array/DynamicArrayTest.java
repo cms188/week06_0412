@@ -25,14 +25,13 @@ public class DynamicArrayTest {
 		}
 		
 		
+	
 		
 		
 		
 		
 		
-		
-		
-		
+		/*
 		int[][] arr = new int[3][]; // 3개의 행을 우선 생성
 		int cnt = 0;
 		//동적 배열 출력 프로그램 (Dynamic Array)
@@ -50,6 +49,7 @@ public class DynamicArrayTest {
 			}
 			System.out.println();
 		}
+		*/
 	}
 
 }
